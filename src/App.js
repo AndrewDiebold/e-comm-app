@@ -39,6 +39,7 @@ class App extends React.Component {
 
       //lets see
       //number 2
+      //3
       
       this.setState({ currentUser: userAuth});
     });
